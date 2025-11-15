@@ -11,6 +11,13 @@
 | Repository | Domain | Description | Documentation File |
 |-----------|--------|-------------|-------------------|
 | `wmd06/CarAccidentPredictor` | Machine Learning | Predicts car accident likelihood using ML models | `docs/CarAccidentPredictor.md` |
+| `mahdi-al-hakim/cme_workshop` | Web Application | Workshop application with Python backend | `docs/cme_workshop.md` |
+| `mahdi-al-hakim/edgar_play` | Data Science | SEC Edgar data analysis and processing | `docs/edgar_play.md` |
+| `mahdi-al-hakim/ProductService` | Backend Service | Product management service | `docs/ProductService.md` |
+| `mahdi-al-hakim/SpotFix-BE` | Backend Service | SpotFix backend service | `docs/SpotFix-BE.md` |
+| `mahdi-al-hakim/SpotFixBE` | Backend Service | SpotFix backend service (alternate) | `docs/SpotFixBE.md` |
+| `mahdi-al-hakim/SpotFixFE` | Frontend | SpotFix frontend application | `docs/SpotFixFE.md` |
+| `mahdi-al-hakim/docs_hub` | Documentation | Central documentation repository | `docs/docs_hub.md` |
 
 ---
 
@@ -30,16 +37,113 @@
 - **Tech Stack**: Python, scikit-learn, pandas, numpy
 - **Documentation**: `docs/CarAccidentPredictor.md`
 
+#### `mahdi-al-hakim/edgar_play`
+- **Owner**: mahdi-al-hakim
+- **Languages**: Python, TeX
+- **Status**: Development
+- **Key Features**:
+  - SEC Edgar data retrieval and analysis
+  - Financial document processing
+  - Data extraction and transformation
+- **Tech Stack**: Python, TeX
+- **Documentation**: `docs/edgar_play.md`
+
+### Web Applications
+
+#### `mahdi-al-hakim/cme_workshop`
+- **Owner**: mahdi-al-hakim
+- **Languages**: Python, HTML, JavaScript, CSS
+- **Status**: Development
+- **Key Features**:
+  - Workshop/training application
+  - Interactive web interface
+  - Python backend processing
+- **Tech Stack**: Python, HTML, JavaScript, CSS
+- **Documentation**: `docs/cme_workshop.md`
+
+#### `mahdi-al-hakim/SpotFixFE`
+- **Owner**: mahdi-al-hakim
+- **Languages**: TypeScript, CSS, JavaScript, HTML
+- **Status**: Development
+- **Key Features**:
+  - Frontend for SpotFix application
+  - Modern TypeScript-based UI
+  - Responsive web interface
+- **Tech Stack**: TypeScript, CSS, JavaScript, HTML
+- **Documentation**: `docs/SpotFixFE.md`
+
+### Backend Services
+
+#### `mahdi-al-hakim/ProductService`
+- **Owner**: mahdi-al-hakim
+- **Languages**: Not specified
+- **Status**: Development
+- **Key Features**:
+  - Product management and catalog
+  - Service-oriented architecture
+- **Tech Stack**: To be documented
+- **Documentation**: `docs/ProductService.md`
+
+#### `mahdi-al-hakim/SpotFix-BE`
+- **Owner**: mahdi-al-hakim
+- **Languages**: TypeScript, JavaScript
+- **Status**: Development
+- **Key Features**:
+  - Backend API for SpotFix application
+  - RESTful services
+  - Data persistence
+- **Tech Stack**: TypeScript, JavaScript
+- **Documentation**: `docs/SpotFix-BE.md`
+
+#### `mahdi-al-hakim/SpotFixBE`
+- **Owner**: mahdi-al-hakim
+- **Languages**: TypeScript, JavaScript
+- **Status**: Development
+- **Key Features**:
+  - Backend API for SpotFix application (alternate implementation)
+  - Service layer architecture
+- **Tech Stack**: TypeScript, JavaScript
+- **Documentation**: `docs/SpotFixBE.md`
+
+### Documentation & Infrastructure
+
+#### `mahdi-al-hakim/docs_hub`
+- **Owner**: mahdi-al-hakim
+- **Languages**: Markdown
+- **Status**: Active
+- **Key Features**:
+  - Central documentation repository
+  - Catalog for all repositories
+  - AI agent integration point
+- **Tech Stack**: Markdown, Git
+- **Documentation**: `docs/docs_hub.md`
+
 ---
 
 ## 🏗️ Architecture Overview
 
 ```
 Current Projects:
-┌─────────────────────────┐
-│  CarAccidentPredictor   │
-│  (ML/Data Science)      │
-└─────────────────────────┘
+┌────────────────────────────────────────────────┐
+│              Machine Learning                   │
+│  - CarAccidentPredictor                        │
+│  - edgar_play                                  │
+└────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────┐
+│            Web Applications                     │
+│  - cme_workshop                                │
+│  - SpotFixFE                                   │
+└────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────┐
+│           Backend Services                      │
+│  - ProductService                              │
+│  - SpotFix-BE                                  │
+│  - SpotFixBE                                   │
+└────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────┐
+│     Documentation & Infrastructure             │
+│  - docs_hub                                    │
+└────────────────────────────────────────────────┘
 ```
 
 ---
@@ -47,14 +151,22 @@ Current Projects:
 ## 📊 Repository Metadata Summary
 
 ### By Language
-- **Python**: 1 repo (CarAccidentPredictor)
+- **Python**: 3 repos (CarAccidentPredictor, edgar_play, cme_workshop)
+- **TypeScript/JavaScript**: 4 repos (SpotFixFE, SpotFix-BE, SpotFixBE, cme_workshop)
+- **HTML/CSS**: 2 repos (cme_workshop, SpotFixFE)
+- **TeX**: 1 repo (edgar_play)
+- **Markdown**: 1 repo (docs_hub)
 
 ### By Status
-- **Development**: 1 repo
+- **Development**: 7 repos
+- **Active**: 1 repo (docs_hub)
 - **Production**: 0 repos
 
 ### By Domain
-- **Machine Learning**: 1 repo
+- **Machine Learning/Data Science**: 2 repos
+- **Web Applications**: 2 repos
+- **Backend Services**: 3 repos
+- **Documentation**: 1 repo
 
 ---
 
@@ -92,7 +204,21 @@ Current Projects:
 
 ## ⚡ Quick Links
 
+### Machine Learning / Data Science
 - [CarAccidentPredictor Repository](https://github.com/wmd06/CarAccidentPredictor)
+- [edgar_play Repository](https://github.com/mahdi-al-hakim/edgar_play)
+
+### Web Applications
+- [cme_workshop Repository](https://github.com/mahdi-al-hakim/cme_workshop)
+- [SpotFixFE Repository](https://github.com/mahdi-al-hakim/SpotFixFE)
+
+### Backend Services
+- [ProductService Repository](https://github.com/mahdi-al-hakim/ProductService)
+- [SpotFix-BE Repository](https://github.com/mahdi-al-hakim/SpotFix-BE)
+- [SpotFixBE Repository](https://github.com/mahdi-al-hakim/SpotFixBE)
+
+### Documentation
+- [docs_hub Repository](https://github.com/mahdi-al-hakim/docs_hub)
 - [Add New Repository Documentation](./docs/)
 
 ---

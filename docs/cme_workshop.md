@@ -1,18 +1,18 @@
 ---
-name: CarAccidentPredictor
-full_name: wmd06/CarAccidentPredictor
+name: cme_workshop
+full_name: mahdi-al-hakim/cme_workshop
 description: No description provided
-languages: Jupyter Notebook, HTML, Python
+languages: Python, HTML, JavaScript, CSS
 topics: 
 stars: 0
-url: https://github.com/wmd06/CarAccidentPredictor
-generated: 2025-11-15T21:47:01.130865
+url: https://github.com/mahdi-al-hakim/cme_workshop
+generated: 2025-11-15T21:46:34.158803
 auto_generated: true
 ---
 
-# CarAccidentPredictor
+# cme_workshop
 
-**Repository**: [wmd06/CarAccidentPredictor](https://github.com/wmd06/CarAccidentPredictor)
+**Repository**: [mahdi-al-hakim/cme_workshop](https://github.com/mahdi-al-hakim/cme_workshop)
 
 ## Overview
 
@@ -20,7 +20,7 @@ No description provided
 
 ## Technical Details
 
-- **Languages**: Jupyter Notebook, HTML, Python
+- **Languages**: Python, HTML, JavaScript, CSS
 - **Topics**: None
 - **Default Branch**: main
 - **Stars**: 0
@@ -28,13 +28,13 @@ No description provided
 
 ## File Types
 
-ipynb, md, pkl, py, txt
+Not analyzed
 
 ## Status
 
-- **Created**: 2024-12-10
-- **Last Updated**: 2024-12-20
-- **README**: Yes (4783 chars)
+- **Created**: 2025-08-03
+- **Last Updated**: 2025-08-03
+- **README**: No (0 chars)
 
 ## Notes
 

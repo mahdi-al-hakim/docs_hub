@@ -1,18 +1,18 @@
 ---
-name: CarAccidentPredictor
-full_name: wmd06/CarAccidentPredictor
+name: SpotFixBE
+full_name: mahdi-al-hakim/SpotFixBE
 description: No description provided
-languages: Jupyter Notebook, HTML, Python
+languages: TypeScript, JavaScript
 topics: 
 stars: 0
-url: https://github.com/wmd06/CarAccidentPredictor
-generated: 2025-11-15T21:47:01.130865
+url: https://github.com/mahdi-al-hakim/SpotFixBE
+generated: 2025-11-15T21:46:49.027865
 auto_generated: true
 ---
 
-# CarAccidentPredictor
+# SpotFixBE
 
-**Repository**: [wmd06/CarAccidentPredictor](https://github.com/wmd06/CarAccidentPredictor)
+**Repository**: [mahdi-al-hakim/SpotFixBE](https://github.com/mahdi-al-hakim/SpotFixBE)
 
 ## Overview
 
@@ -20,21 +20,21 @@ No description provided
 
 ## Technical Details
 
-- **Languages**: Jupyter Notebook, HTML, Python
+- **Languages**: TypeScript, JavaScript
 - **Topics**: None
-- **Default Branch**: main
+- **Default Branch**: dev
 - **Stars**: 0
 - **Forks**: 0
 
 ## File Types
 
-ipynb, md, pkl, py, txt
+Not analyzed
 
 ## Status
 
-- **Created**: 2024-12-10
-- **Last Updated**: 2024-12-20
-- **README**: Yes (4783 chars)
+- **Created**: 2024-10-29
+- **Last Updated**: 2024-10-29
+- **README**: No (0 chars)
 
 ## Notes
 

@@ -1,18 +1,18 @@
 ---
-name: CarAccidentPredictor
-full_name: wmd06/CarAccidentPredictor
+name: edgar_play
+full_name: mahdi-al-hakim/edgar_play
 description: No description provided
-languages: Jupyter Notebook, HTML, Python
+languages: Python, TeX
 topics: 
 stars: 0
-url: https://github.com/wmd06/CarAccidentPredictor
-generated: 2025-11-15T21:47:01.130865
+url: https://github.com/mahdi-al-hakim/edgar_play
+generated: 2025-11-15T21:46:39.979454
 auto_generated: true
 ---
 
-# CarAccidentPredictor
+# edgar_play
 
-**Repository**: [wmd06/CarAccidentPredictor](https://github.com/wmd06/CarAccidentPredictor)
+**Repository**: [mahdi-al-hakim/edgar_play](https://github.com/mahdi-al-hakim/edgar_play)
 
 ## Overview
 
@@ -20,7 +20,7 @@ No description provided
 
 ## Technical Details
 
-- **Languages**: Jupyter Notebook, HTML, Python
+- **Languages**: Python, TeX
 - **Topics**: None
 - **Default Branch**: main
 - **Stars**: 0
@@ -28,13 +28,13 @@ No description provided
 
 ## File Types
 
-ipynb, md, pkl, py, txt
+Not analyzed
 
 ## Status
 
-- **Created**: 2024-12-10
-- **Last Updated**: 2024-12-20
-- **README**: Yes (4783 chars)
+- **Created**: 2025-09-25
+- **Last Updated**: 2025-10-04
+- **README**: No (0 chars)
 
 ## Notes
 

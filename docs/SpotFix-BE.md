@@ -1,18 +1,18 @@
 ---
-name: CarAccidentPredictor
-full_name: wmd06/CarAccidentPredictor
+name: SpotFix-BE
+full_name: mahdi-al-hakim/SpotFix-BE
 description: No description provided
-languages: Jupyter Notebook, HTML, Python
+languages: 
 topics: 
 stars: 0
-url: https://github.com/wmd06/CarAccidentPredictor
-generated: 2025-11-15T21:47:01.130865
+url: https://github.com/mahdi-al-hakim/SpotFix-BE
+generated: 2025-11-15T21:46:46.135173
 auto_generated: true
 ---
 
-# CarAccidentPredictor
+# SpotFix-BE
 
-**Repository**: [wmd06/CarAccidentPredictor](https://github.com/wmd06/CarAccidentPredictor)
+**Repository**: [mahdi-al-hakim/SpotFix-BE](https://github.com/mahdi-al-hakim/SpotFix-BE)
 
 ## Overview
 
@@ -20,7 +20,7 @@ No description provided
 
 ## Technical Details
 
-- **Languages**: Jupyter Notebook, HTML, Python
+- **Languages**: Not specified
 - **Topics**: None
 - **Default Branch**: main
 - **Stars**: 0
@@ -28,13 +28,13 @@ No description provided
 
 ## File Types
 
-ipynb, md, pkl, py, txt
+Not analyzed
 
 ## Status
 
-- **Created**: 2024-12-10
-- **Last Updated**: 2024-12-20
-- **README**: Yes (4783 chars)
+- **Created**: 2025-03-29
+- **Last Updated**: 2025-03-29
+- **README**: No (0 chars)
 
 ## Notes
 
